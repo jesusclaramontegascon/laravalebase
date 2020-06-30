@@ -1,0 +1,5 @@
+<div id="zonapie">
+<?php 
+echo "<h1>esto es la zona del pie</h1>";
+?>
+</div>
